@@ -1,4 +1,4 @@
 ## Market Basket Analysis of Store Data
 
 ### Objective
--> To perform various Association rules of different Datasets.
+-> To perform various Association rules on different Datasets.
